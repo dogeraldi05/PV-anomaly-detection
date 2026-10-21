@@ -1,7 +1,7 @@
 # PV Anomaly Detection with Weather-Normalised Baselines
 
 Which inverters lost energy, why, and how much? This project compares each
-inverter's output with **what the weather should have produced**, learned from
+inverter's output with **what the plant should have produced**, learned from
 the plant's own history. It then turns the gap into alarms with a reason and an
 energy loss in kWh.
 
